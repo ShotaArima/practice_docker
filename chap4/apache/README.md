@@ -9,3 +9,8 @@ docker compose up
 ```bash
 docker compose cp ローカルのディレクトリ リモートのディレクトリ
 ```
+
+## コンテナを削除するコマンド
+```bash
+docker compose down
+```
